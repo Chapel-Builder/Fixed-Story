@@ -4,9 +4,10 @@
     <title> Lord Chapy Dave Chapel </title>
     
 </head>
-<body>
+<body style="background-color:blanchedalmond">
+   
+    <img src="Images\Chapel.jpg" alt="Chapel" width="300" height="500"> 
     <h1>Lord Chapy's Chapel: What will you do?</h1>
-    <img src="Images\Chapel.jpg" alt="Chapel" width="300" height="500">
     <hr size = 5 color = black>
     <table>
        <tr> <td> <strong> <em> <a href = "The Lord Invites you.html"> Pray </a> </em> 🙏 </strong> </td></tr>
